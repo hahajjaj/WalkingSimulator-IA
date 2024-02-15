@@ -1,0 +1,5 @@
+.vscode
+__pycache__
+__MACOSX
+saves*/*
+walking_neat_config
