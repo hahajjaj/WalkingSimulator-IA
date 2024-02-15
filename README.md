@@ -20,10 +20,10 @@ This project includes several implementations of AI algorithms, each designed to
 ## Visual
 
 <p align="center">
-  <img src="https://github.com/hahajjaj/WalkingSimulator-IA/blob/main/pictures/img1.png" alt="HomeScreen" width="400" height="auto">
+  <img src="https://github.com/hahajjaj/WalkingSimulator-IA/blob/main/pictures/img1.png" alt="HomeScreen" width="600" height="auto">
 </p>
 <p align="center">
-  <img src="https://github.com/hahajjaj/WalkingSimulator-IA/blob/main/pictures/img2.png" alt="SignIn Screen" width="400" height="auto">
+  <img src="https://github.com/hahajjaj/WalkingSimulator-IA/blob/main/pictures/img2.png" alt="SignIn Screen" width="600" height="auto">
 </p>
 
 ## Animals
